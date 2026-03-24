@@ -1,5 +1,5 @@
 
-![Screenshot](./screenshots/Screenshot 2026-03-24 125610.png)
+![Screenshot](./screenshots/Rouzbeh-api-design.png)
 
 # Pokémon API Explorer
 
