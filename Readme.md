@@ -1,3 +1,6 @@
+
+![Screenshot](./screenshots/Screenshot 2026-03-24 125610.png)
+
 # Pokémon API Explorer
 
 A modern, lightweight REST API and interactive explorer built with **Vanilla PHP** and **MySQL**. This project demonstrates clean API design, efficient database interaction with PDO, and a premium-inspired frontend for exploring Pokémon datasets.
